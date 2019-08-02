@@ -1,0 +1,16 @@
+@function color($key: "blue") {
+  @return map-get($blue, $key);
+}
+
+@function theme-color($key: "primary") {
+  @return map-get($yellow,orange, $key);
+}
+
+@function gray($key: "100") {
+  @return map-get($grays, $key);
+}
+
+.custom-element {
+  color: gray("100");
+  background-color: theme-color("dark");
+}
