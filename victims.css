@@ -1,1 +1,16 @@
-body { background-color: #02385E ; color: White }
+body {
+  background-color: #02385E ;
+  color: White;
+}
+
+img {
+  margin:0 auto;
+  display: block;
+
+}
+p{
+  font-size: 24px;
+}
+#victims {
+  column-count: 2;
+}
