@@ -1,1 +1,8 @@
-body { background-color: #02385E ; color: White }
+body {
+  background-color: #02385E ;
+  color: White;
+}
+
+img {
+  float:right;
+}
