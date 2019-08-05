@@ -1,0 +1,21 @@
+body {
+  background-color: #02385E ;
+  color: White;
+}
+
+img {
+
+  float:right;
+}
+
+#license {
+  float: none;
+}
+
+#application {
+  float: none;
+}
+
+#sandc {
+  float:none;
+}
