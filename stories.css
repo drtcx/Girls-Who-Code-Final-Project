@@ -2,3 +2,13 @@ body {
   background-color: #02385E ;
   color: White;
 }
+
+.left-img {
+
+  float:left;
+
+}
+
+#clear {
+  clear: both;
+}
