@@ -3,19 +3,6 @@ body {
   color: White;
 }
 
-img {
-
+#pulledover {
   float:right;
-}
-
-#license {
-  float: none;
-}
-
-#application {
-  float: none;
-}
-
-#sandc {
-  float:none;
 }
